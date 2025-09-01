@@ -56,7 +56,7 @@ The user interface is **fully responsive**, ensuring a seamless experience on bo
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/svelte-earthquake-visualizer.git
+   git clone https://github.com/Arnesh-pal/svelte-earthquake-visualizer.git
    ```
 
 2. **Navigate to the project directory**
