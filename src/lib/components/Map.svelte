@@ -19,7 +19,7 @@
 		layerGroup = L.layerGroup().addTo(map);
 
 		L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
-			attribution: '&copy; OpenStreetMap contributors &copy; CARTO'
+			attribution: '&copy; CARTO | Made by <a href="https://github.com/Arnesh-pal" target="_blank" style="color: #a0a0a0; text-decoration: none;">Arnesh</a>'
 		}).addTo(map);
 	});
 
